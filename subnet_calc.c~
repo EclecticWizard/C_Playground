@@ -1,0 +1,10 @@
+// subnet calculator
+
+#include <stdio.h>
+
+
+void main() {
+  printf("Welcome to the subnet calculator!\nAre you subnetting for (h)osts or (n)etworks: ");
+  char hn = scanf();
+
+}
